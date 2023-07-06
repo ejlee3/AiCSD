@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: BSD-3-Clause
 ########################################################################
 
-name: ":rocket: Feature Request"
+name: 🚀 Feature Request
 description: "I have a suggestion (and may want to implement it)!"
 title: "[Feature]: "
 labels: ["feature"]
